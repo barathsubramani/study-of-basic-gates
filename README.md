@@ -99,6 +99,6 @@ endmodule
 
 ![image](https://github.com/barathsubramani/study-of-basic-gates/assets/118542617/a0a7ace3-1ac2-4e6c-bd0d-d554910268be)
 
-**Result:**
+**Result:** 
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 

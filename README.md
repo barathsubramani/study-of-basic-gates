@@ -95,7 +95,8 @@ endmodule
 
 
 
-**RTL**
+**RTL** 
+
 ![image](https://github.com/barathsubramani/study-of-basic-gates/assets/118542617/a0a7ace3-1ac2-4e6c-bd0d-d554910268be)
 
 **Result:**
